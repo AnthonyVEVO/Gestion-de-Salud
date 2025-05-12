@@ -1,0 +1,6 @@
+com\mycompany\gestionsalud\GestionSalud.class
+com\mycompany\gestionsalud\pacientes\PacienteHospitalizado.class
+com\mycompany\gestionsalud\pacientes\PacienteEmergencia.class
+com\mycompany\gestionsalud\pacientes\PacienteGeneral.class
+com\mycompany\gestionsalud\CentroSalud.class
+com\mycompany\gestionsalud\pacientes\Paciente.class
